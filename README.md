@@ -1,2 +1,2 @@
-# EEEE
-Restart
+# expenses
+Expense tracker app
